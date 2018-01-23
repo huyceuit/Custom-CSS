@@ -256,7 +256,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .btn_outline.active { color: #c7c7c7 !important; }
 
-.btn_link { color: #949494; }
+.btn_link { color: #001ac6; }
 
 .btn_link:hover, .btn_link:focus { color: #c7c7c7; }
 
