@@ -17,7 +17,7 @@ limitations under the License.
 :root {
    /* Modify these to change your theme colors: */
    --primary: #09F;
-   --text: #FFF;
+   --text: rgb(255, 255, 255);
    --background: #111;
    --background-elevated: #222;
 
